@@ -1,5 +1,5 @@
 // ashnoor
-// cscsi 115
+// csci 115
 //lab 10
 
 // huffman coding
